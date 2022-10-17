@@ -1,6 +1,7 @@
 /*
 Color Palette:
 background color: #AAC4FF0
+background color 2: #21E1E1
 font color: #4C6793 
 font color #2: #083AA9
 secondary color: #8BBCCC  
@@ -33,6 +34,7 @@ body {
     font-family: 'Abyssinica SIL', sans-serif;
     margin: 0;
     text-shadow: 2px 2px #7895B2;
+    background-image: linear-gradient(#AAC4FF, #21E1E1);
 }
 
 cite{
@@ -95,5 +97,6 @@ img:hover {
 }
 
 .cardText:hover {
-  width: 400px;
+  width: 500px;
 }
+
